@@ -7,6 +7,8 @@ The system integrates:
 
 Hardware: 
 Arduino Uno, ESP32-WROOM-32, DHT11 (temperature & humidity sensor), BMP180 (pressure sensor), MH-RD (rain sensor), and MQ-7 (CO sensor).
+
+
 Software: 
 Arduino IDE for programming and the Blynk app for data visualization.
 The microcontroller collects sensor data, processes it, and transmits it wirelessly to the Blynk application, where users can monitor real-time weather updates.
