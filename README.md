@@ -18,10 +18,7 @@ Sensors collect environmental data.
 Arduino processes and sends data to the Blynk platform using ESP32 WiFi.
 The Blynk mobile application displays the weather parameters in a user-friendly interface.
 Features
-✔️ Wireless monitoring via IoT
-✔️ Real-time weather updates
-✔️ Low power consumption
-✔️ Easy-to-use Blynk mobile application
+      Wireless monitoring via IoT,Real-time weather updates,Low power consumption,Easy-to-use Blynk mobile application.
 
 # Conclusion
 This project successfully implements an IoT-based Weather Monitoring System, offering a cost-effective and efficient solution for weather tracking. It is beneficial for farmers, travelers, and urban planners who require real-time weather data.
